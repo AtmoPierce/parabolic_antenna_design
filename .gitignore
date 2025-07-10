@@ -1,0 +1,4 @@
+/target
+*.scad
+*.svg
+*.csv
